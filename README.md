@@ -1,2 +1,2 @@
 # utils
-a small collection if outdated utilities
+a small collection of outdated command-line utilities
