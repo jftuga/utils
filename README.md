@@ -35,6 +35,7 @@ A small collection of outdated command-line utilities
 * Helper script for cross compiling some media tools for windows, like customizable ffmpeg.exe 
 * * (with or without non-free components, etc), 
 * * and some other bonuses like mplayer, mp4box, mxf, etc.
+* * This version contains OCR support
 * https://github.com/rdp/ffmpeg-windows-build-helpers
 
 ### freq
