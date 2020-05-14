@@ -3,6 +3,10 @@ A small collection of outdated command-line utilities
 
 ## Use at your own risk!
 
+### 7za
+* 7-Zip is a file archiver with a high compression ratio
+* https://www.7-zip.org/
+
 ### arc
 * Easily create & extract archives, and compress & decompress files of various formats
 * https://github.com/mholt/archiver
@@ -23,6 +27,10 @@ A small collection of outdated command-line utilities
 * Display basic computer info.
 * https://github.com/jftuga/compinfo
 
+### copy_atime_mtime
+* copies the src atime/mtime (access/modifiy) attributes to dst
+* https://github.com/jftuga/universe/blob/master/copy_atime_mtime.py
+ 
 ### dcmp
 * Compare files within two directory trees for equivalency
 * https://github.com/jftuga/dcmp-py
@@ -54,17 +62,41 @@ A small collection of outdated command-line utilities
 * Return IP address info including geographic location and distance when given IP address, email address, host name or URL
 * https://github.com/jftuga/ipinfo
 
+### len
+* Return the combined string length of all of given command line arguments
+* https://github.com/jftuga/len
+
 ### less
 * GNU less compiled for Windows 10. Stand-alone version with no dependencies
 * https://github.com/jftuga/less-Windows
+
+### mawk
+* Interpreter and compiler for AWK pattern processing script language
+* https://www.klabaster.com/freeware.htm
 
 ### nics
 * Display information about Network Inferface Cards (NICs)
 * https://github.com/jftuga/nics
 
+### pscp, psftp, putty
+* PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms
+* https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+### pystat
+* display and/or set metadata of file names given on cmd line
+* https://github.com/jftuga/universe/blob/master/pystat.py
+
+### remove_empty_dirs
+* recursively remove folders that do not contain any files
+* https://github.com/jftuga/universe/blob/master/remove_empty_dirs.py
+
 ### s3cmd
 * Command line tool for managing Amazon S3 and CloudFront services
 * https://github.com/s3tools/s3cmd
+
+### sleepuntil
+* sleep until the given time in 24-hr format
+* https://github.com/jftuga/universe/blob/master/sleepuntil.py
 
 ### speedtest
 * Command line interface for testing internet bandwidth using speedtest.net
