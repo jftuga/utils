@@ -105,3 +105,7 @@ A small collection of outdated command-line utilities
 ### tcpscan
 * A fast, simple, multi-threaded cross-platform IPv4 TCP port scanner
 * https://github.com/jftuga/tcpscan
+
+### timeit
+* A CLI tool used to time the duration of the given command 
+* https://github.com/jftuga/timeit
