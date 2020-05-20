@@ -86,6 +86,10 @@ A small collection of outdated command-line utilities
 * display and/or set metadata of file names given on cmd line
 * https://github.com/jftuga/universe/blob/master/pystat.py
 
+### pywhich
+* Iterate through the PATH environment variable to search for an executable given as cmd-line argument
+* https://github.com/jftuga/universe/blob/master/pywhich.py
+
 ### remove_empty_dirs
 * recursively remove folders that do not contain any files
 * https://github.com/jftuga/universe/blob/master/remove_empty_dirs.py
