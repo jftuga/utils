@@ -54,6 +54,10 @@ A small collection of outdated command-line utilities
 * Get info for a list of files across multiple directories
 * https://github.com/jftuga/fstat
 
+### hexc
+* Terminal program for converting to and from any base
+* https://github.com/sntdrr/hexc
+
 ### http
 * a stand-alone HTTPie windows binary. Contribute to jftuga/HTTPie-Windows development by creating an account on GitHub.
 * https://github.com/jftuga/HTTPie-Windows
