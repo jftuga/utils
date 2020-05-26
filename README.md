@@ -82,6 +82,10 @@ A small collection of outdated command-line utilities
 * Display information about Network Inferface Cards (NICs)
 * https://github.com/jftuga/nics
 
+### pdfcpu
+* A PDF processor written in Go
+* https://github.com/pdfcpu/pdfcpu
+
 ### pscp, psftp, putty
 * PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms
 * https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
