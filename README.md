@@ -102,6 +102,10 @@ A small collection of (possibly) outdated command-line utilities
 * recursively remove folders that do not contain any files
 * https://github.com/jftuga/universe/blob/master/remove_empty_dirs.py
 
+### rg - ripgrep
+* ripgrep recursively searches directories for a regex pattern
+* https://github.com/BurntSushi/ripgrep
+
 ### s3cmd
 * Command line tool for managing Amazon S3 and CloudFront services
 * https://github.com/s3tools/s3cmd
