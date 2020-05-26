@@ -1,5 +1,5 @@
 # utils
-A small collection of outdated command-line utilities
+A small collection of (possibly) outdated command-line utilities
 
 ## Use at your own risk!
 
