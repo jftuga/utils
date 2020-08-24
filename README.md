@@ -78,6 +78,10 @@ A small collection of (possibly) outdated command-line utilities
 * Interpreter and compiler for AWK pattern processing script language
 * https://www.klabaster.com/freeware.htm
 
+### mouseinfo
+* Display XY position and RGB color information for the pixel currently under the mouse
+* https://github.com/asweigart/mouseinfo
+
 ### nics
 * Display information about Network Inferface Cards (NICs)
 * https://github.com/jftuga/nics
