@@ -77,6 +77,7 @@ A small collection of (possibly) outdated command-line utilities
 ### mawk
 * Interpreter and compiler for AWK pattern processing script language
 * https://www.klabaster.com/freeware.htm
+* https://invisible-island.net/mawk/
 
 ### mouseinfo
 * Display XY position and RGB color information for the pixel currently under the mouse
@@ -120,6 +121,7 @@ A small collection of (possibly) outdated command-line utilities
 
 ### speedtest
 * Command line interface for testing internet bandwidth using speedtest.net
+* https://www.speedtest.net/apps/cli
 * https://github.com/sivel/speedtest-cli
 
 ### tcpscan
