@@ -91,6 +91,10 @@ A small collection of (possibly) outdated command-line utilities
 * A PDF processor written in Go
 * https://github.com/pdfcpu/pdfcpu
 
+### pdfmeta
+* Display PDF meta-data such as Author, Title, ModDate, etc.
+* https://github.com/jftuga/pdfmeta
+
 ### pscp, psftp, putty
 * PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms
 * https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
